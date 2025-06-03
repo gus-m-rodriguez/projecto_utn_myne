@@ -38,6 +38,7 @@ Este proyecto es un sistema de gestión de biblioteca desarrollado en Python, co
 2. **Construye y levanta los contenedores:**
    ```bash
    docker-compose up --build -d
+   (en ubuntu corre el comando docker compose up --build -d)
    ```
 3. **Accede a la aplicación de consola:**
    ```bash
